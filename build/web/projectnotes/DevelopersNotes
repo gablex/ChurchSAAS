@@ -1,0 +1,23 @@
+---Utilities Package
+=>Function to calculate age given the date of birth
+
+---
+=>Keep records when a new user is registered to a given group
+=>Create a death register where member is moved ONLY when "registrar" marks him/her dead and deleted from all other records
+  Only registrar can mark a member demised
+=>Creates a Sunday Register
+
+=>Data Backup Page
+
+==================User Types and Security ===========================================================
+1. System Admin => Accesses all modules and functions
+
+2. Church Registrar => Accesses all modules and functions related to data
+
+3. Church Admin => Accesses adding data -> View and print but cannot change already saved data.
+
+4. Secretary => View data and print
+
+5. Clerks => View the Church Sunday Register , enter temperature and save 
+=========================End=========================================================================
+
